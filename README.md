@@ -7,10 +7,10 @@
 
 ### 荐康宝个人工作周报
 
-* 上周工作总结(文件夹1代表上周工作总结)
+* 上周工作总结
     * [上周工作总结-20161107](https://github.com/zzm1988/jkb/blob/master/1/20161107.md)
 
-* 下周工作计划(文件夹2代表下周工作计划)
-    * [下周工作计划-20161112](https://github.com/zzm1988/jkb/blob/master/2/20161112.md)
+* 本周工作计划
+    * [本周工作计划-20161114](https://github.com/zzm1988/jkb/blob/master/1/20161114.md)
 
 
